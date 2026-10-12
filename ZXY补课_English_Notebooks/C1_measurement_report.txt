@@ -1,0 +1,5 @@
+Test: spring loading
+Operator: Student A
+Valid measurements: 4
+Rejected measurements: 2
+Mean valid force: 21.70 N

@@ -1,0 +1,3 @@
+elastic=2
+failed=2
+invalid=1
